@@ -1,0 +1,8 @@
+title: SkillBase Chronicles
+description: Forging an AI Dojo for Skill Mastery
+theme: minima
+header_pages:
+  - index.md
+  - about.md
+github_username: ahsherlock
+markdown: kramdown
